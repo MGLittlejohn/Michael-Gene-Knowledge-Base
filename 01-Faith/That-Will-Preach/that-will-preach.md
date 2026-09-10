@@ -201,4 +201,10 @@ Events tell you what happened. Patterns begin telling you why.
 
 **Trigger → thought → feeling → reaction → consequence.**
 
+### Sanctification — God Works, We Participate
+
+**Philippians 1:6 (ESV)**
+
+> "And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ."
+
 Sanctification means God works, and we participate. Growth is neither self-salvation nor passive resignation. It is dependent, grace-powered obedience.
