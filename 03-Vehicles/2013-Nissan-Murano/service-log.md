@@ -36,8 +36,8 @@ For future repairs, final torque specifications should be vehicle-specific, comp
 
 ---
 
-## September 14–26, 2026 — Rear Torque Mount, Power Steering Pump, Belt Tensioner & Belt
-**Status:** COMPLETED by September 26, 2026
+## September 23–25, 2026 — Rear Torque Mount, Power Steering Pump, Belt Tensioner & Belt
+**Status:** COMPLETED September 23–25, 2026
 
 **Reason for repair:**
 - A missing fastener at the rear torque strut/mount was associated with a drivetrain clunk; a temporary through-bolt and nut stopped the clunk during diagnosis.
@@ -53,7 +53,7 @@ For future repairs, final torque specifications should be vehicle-specific, comp
 **Repair notes:**
 - Tight access at the pump required loosening passenger-side upper engine mounts and raising the engine slightly for tool clearance.
 - The pump's upper low-pressure hose and high-pressure banjo connection had to be freed; the pump was eventually removed.
-- Exact completion date for each individual part, fluid brand/quantity, mileage, and part numbers were not recorded.
+- The work was completed across September 23–25; the exact day for each individual part, fluid brand/quantity, mileage, and installed part numbers were not recorded.
 
 ---
 
